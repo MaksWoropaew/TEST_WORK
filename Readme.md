@@ -7,7 +7,7 @@
 
 ## Репозиторий включает в себя:
 
-* ![Схема алгоритма основного метода](https://github.com/MaksWoropaew/Test_work/blob/main/Diagram.draw.io.png)
+* ![Схема алгоритма основного метода](https://github.com/MaksWoropaew/Test_work/blob/main/Diagram.draw.io.png "Схема")
 
 * Скрипты ее выполнения. Если хотим посмотреть их работу,
 запускаем Program.cs из терминала с помощью команды
